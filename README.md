@@ -7,7 +7,6 @@ Dynamic programming is a powerful technique used for solving optimization proble
 - [Basic Concept](#basic-concept)
 - [Approaches](#approaches)
 - [Examples](#examples)
-- [Resources](#resources)
 
 ## Introduction
 
