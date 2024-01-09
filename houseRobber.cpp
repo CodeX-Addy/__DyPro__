@@ -18,7 +18,7 @@ public:
 
     }
 
-    //Using top down approach(Memoization)
+    //Using top down dp approach(Memoization)
     int solveusingmem(vector<int> nums, int i, vector<int>&dp){
         if(i>=nums.size()){
             return 0;
